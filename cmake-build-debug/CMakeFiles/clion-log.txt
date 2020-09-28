@@ -1,0 +1,13 @@
+/home/carlosrey/clion-2020.1.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/carlosrey/CLionProjects/GBQ
+-- Parameter CPLEX_INSTALL_PATH was not given, looking for IBM CPLEX inside /opt/ibm/ILOG/CPLEX_Studio*
+-- Set CPLEX_INSTALL_PATH=/opt/ibm/ILOG/CPLEX_Studio1210
+/home/carlosrey/gurobi903/linux64/lib/libgurobi90.so /home/carlosrey/gurobi903/linux64/lib/libgurobi_c++.a /home/carlosrey/gurobi903/linux64/lib/libgurobi_c++.a
+-- The following REQUIRED packages have been found:
+
+ * CPLEX
+ * GUROBI
+ * OpenMP
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/carlosrey/CLionProjects/GBQ/cmake-build-debug

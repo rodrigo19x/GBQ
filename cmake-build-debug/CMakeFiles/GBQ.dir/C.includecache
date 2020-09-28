@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/carlosrey/CLionProjects/GBQ/quadknap.c
+stdlib.h
+-
+stdio.h
+-
+values.h
+-
+string.h
+-
+math.h
+-
+stdarg.h
+-
+malloc.h
+-
+omp.h
+-
+
