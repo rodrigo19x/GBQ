@@ -1,6 +1,7 @@
 //============================================================================
 // Name        : QMKP.cpp
 // Author      : Laura Galli
+// Others  : Carlos
 // Version     :
 // Copyright   : Your copyright notice
 // Description : algorithm for QMKP, C++, Ansi-style

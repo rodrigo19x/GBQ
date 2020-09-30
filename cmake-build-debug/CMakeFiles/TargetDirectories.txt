@@ -1,3 +1,0 @@
-/home/carlosrey/CLionProjects/GBQ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/carlosrey/CLionProjects/GBQ/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/carlosrey/CLionProjects/GBQ/cmake-build-debug/CMakeFiles/GBQ.dir
